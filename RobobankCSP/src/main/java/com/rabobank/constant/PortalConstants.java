@@ -1,10 +1,6 @@
 package com.rabobank.constant;
 
-/**
- * 
- * 
- *
- */
+
 public class PortalConstants {
 	public static final Integer HTTP_CODE_SUCCESS = 200;
 	public static final Integer HTTP_CODE_ERROR = 500;

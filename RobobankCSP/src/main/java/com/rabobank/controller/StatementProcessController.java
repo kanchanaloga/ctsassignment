@@ -21,12 +21,8 @@ import com.rabobank.model.Record;
 import com.rabobank.service.ExtractorService;
 import com.rabobank.service.ValidatorService;
 
-/**
- * 
- * 
- *
- */
 
+ 
 @RestController
 @RequestMapping("/rabobank")
 public class StatementProcessController {
